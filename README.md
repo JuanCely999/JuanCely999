@@ -9,6 +9,7 @@ Job profile in research, data analysis, and economic and financial reports.
 <p align="left">
 <a href="https://twitter.com/lllllll4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lllllll4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-cely04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://www.linkedin.com/in/juan-cely04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
 <a href="/nnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nnnn" height="30" width="40" /></a>
 </p>
 
