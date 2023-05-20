@@ -7,10 +7,10 @@ Job profile in research, data analysis, and economic and financial reports.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lllllll4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lllllll4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-cely04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://www.linkedin.com/in/juan-cely04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
-<a href="/nnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nnnn" height="30" width="40" /></a>
+<a href="https://twitter.com/JCely04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lllllll4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-cely04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
+<a href="https://juancely999.github.io/web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.linkedin.com/in/juan-cely04/" height="30" width="40" /></a>
+<a href="https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nnnn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
