@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi. I am Juan Pablo Cely 👋
 
 
-### JuanCely999/JuanCely999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Economist, professional with experience as a researcher, and data analyst, knowledge of Excel, Power Bi, learning Python code, R, SQL, exploratory data analysis, database management, financial indicators, logistics, and reporting. Ability to work in a team, under pressure, and according to established objectives.
+
+Job profile in research, data analysis, and economic and financial reports.
 
 Here are some ideas to get you started:
 
