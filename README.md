@@ -3,7 +3,9 @@
 
 Economist, professional with experience as a researcher, and data analyst, knowledge of Excel, Power Bi, learning Python code, R, SQL, exploratory data analysis, database management, financial indicators, logistics, and reporting. Ability to work in a team, under pressure, and according to established objectives.
 
-Job profile in research, data analysis, and economic and financial reports.
+Job profile in research, data analysis, and economic and financial reports in
+universities and companies such as BEMORE, Nueva Licorera de Boyacá and
+OPREC.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
