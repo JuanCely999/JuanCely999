@@ -7,13 +7,13 @@ Job profile in research, data analysis, and economic and financial reports in
 universities and companies such as BEMORE, Nueva Licorera de Boyacá and
 OPREC.
 
-- 👨‍💻 All of my projects are available at [https://juancely999.github.io/web/](https://juancely999.github.io/web/)
+- 👨‍💻 All of my projects are available on [this page.](https://juancely999.github.io/web/)
 
-- 📝 I regularly write articles on [Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)
+- 📝 I regularly write articles on [Google scholar.](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)
 
 - 📫 How to reach me **juanpablocely1@gmail.com**
 
-- 📄 Know about my experiences [https://doc-08-84-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/pm1iap1cu092lscmtf5ub3d5530ge71l/vd52mudn6j0bstavugn6rliv3osa9ikm/1684669800000/3/116470391993194324811/APznzabxcEJ-Exg5YuV7YfgQfN5s45YUK4rq8jvKLWH4eCEHiZ6v9YIcpwFpgAICR8dI7OWXzfSJOYAZo92SOiAvUoWDAhDwD7b4O55CYzR9qIq_Kku6Welca1QHWCSdnKOh12gPOm_8ZRTjjbjP0FUNP8PYfQBm-csZ4uSLVaL7vRgDQlT1eXFruZqUj4gTvWXdNRtvPhpdHGYJb4ZtCnN7f7FDbGaVEaTEt4M5QbMVrhm4EfrnlpTtcoKa2tiSn9U7sFr-1OQjA_X8830mYjhauLRQ3y5D5ODaRc1EJzyijDIM3humJVKuI-pneVx-H99cIz2xEtyJSAlmQszmkKDMfhVzYhyE4HjN_y24tWXdFQV3pDo4T7qKyDMScZl4WTlyZKblYMBTZwd52_menUxZvDpej21nXQ==?authuser=2&nonce=7vr7veumt5tqq&user=116470391993194324811&hash=dedih6qpfotssj2b6hj1ld8b8lm7ab7a](https://doc-08-84-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/pm1iap1cu092lscmtf5ub3d5530ge71l/vd52mudn6j0bstavugn6rliv3osa9ikm/1684669800000/3/116470391993194324811/APznzabxcEJ-Exg5YuV7YfgQfN5s45YUK4rq8jvKLWH4eCEHiZ6v9YIcpwFpgAICR8dI7OWXzfSJOYAZo92SOiAvUoWDAhDwD7b4O55CYzR9qIq_Kku6Welca1QHWCSdnKOh12gPOm_8ZRTjjbjP0FUNP8PYfQBm-csZ4uSLVaL7vRgDQlT1eXFruZqUj4gTvWXdNRtvPhpdHGYJb4ZtCnN7f7FDbGaVEaTEt4M5QbMVrhm4EfrnlpTtcoKa2tiSn9U7sFr-1OQjA_X8830mYjhauLRQ3y5D5ODaRc1EJzyijDIM3humJVKuI-pneVx-H99cIz2xEtyJSAlmQszmkKDMfhVzYhyE4HjN_y24tWXdFQV3pDo4T7qKyDMScZl4WTlyZKblYMBTZwd52_menUxZvDpej21nXQ==?authuser=2&nonce=7vr7veumt5tqq&user=116470391993194324811&hash=dedih6qpfotssj2b6hj1ld8b8lm7ab7a)
+- 📄 Know about my experiences [in my cv.](https://doc-08-84-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/pm1iap1cu092lscmtf5ub3d5530ge71l/vd52mudn6j0bstavugn6rliv3osa9ikm/1684669800000/3/116470391993194324811/APznzabxcEJ-Exg5YuV7YfgQfN5s45YUK4rq8jvKLWH4eCEHiZ6v9YIcpwFpgAICR8dI7OWXzfSJOYAZo92SOiAvUoWDAhDwD7b4O55CYzR9qIq_Kku6Welca1QHWCSdnKOh12gPOm_8ZRTjjbjP0FUNP8PYfQBm-csZ4uSLVaL7vRgDQlT1eXFruZqUj4gTvWXdNRtvPhpdHGYJb4ZtCnN7f7FDbGaVEaTEt4M5QbMVrhm4EfrnlpTtcoKa2tiSn9U7sFr-1OQjA_X8830mYjhauLRQ3y5D5ODaRc1EJzyijDIM3humJVKuI-pneVx-H99cIz2xEtyJSAlmQszmkKDMfhVzYhyE4HjN_y24tWXdFQV3pDo4T7qKyDMScZl4WTlyZKblYMBTZwd52_menUxZvDpej21nXQ==?authuser=2&nonce=7vr7veumt5tqq&user=116470391993194324811&hash=dedih6qpfotssj2b6hj1ld8b8lm7ab7a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
