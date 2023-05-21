@@ -9,7 +9,7 @@ OPREC.
 
 - 👨‍💻 All of my projects are available at [https://juancely999.github.io/web/](https://juancely999.github.io/web/)
 
-- 📝 I regularly write articles on [https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)
+- 📝 I regularly write articles on [https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC](Google scholar)
 
 - 📫 How to reach me **juanpablocely1@gmail.com**
 
