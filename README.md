@@ -13,7 +13,7 @@ OPREC.
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1a0WUYF07DthrWP6s7RtGfMiDtb2i_-4t/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1-qvhvNZguW5pfvnEhf_StG5oxTytK7dk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
