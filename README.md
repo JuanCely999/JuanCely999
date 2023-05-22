@@ -7,7 +7,9 @@ Job profile in research, data analysis, and economic and financial reports in
 universities and companies such as BEMORE, Nueva Licorera de Boyacá and
 OPREC.
 
-- 👨‍💻 All of my projects are available on [this page.](https://juancely999.github.io/web/)
+- [My page.](https://juancely999.github.io/web/)
+
+- 👨‍💻 All of my projects are available on [this page.](https://github.com/JuanCely999/Economist-portfolio)
 
 - 📝 I regularly write articles on [Google scholar.](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)
 
