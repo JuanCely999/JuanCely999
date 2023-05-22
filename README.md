@@ -11,7 +11,7 @@ OPREC.
 
 - 👨‍💻 All of my projects are available on [this page.](https://github.com/JuanCely999/Economist-portfolio)
 
-- 📝 I regularly write articles on [Google scholar.](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)
+- 📝 I regularly write articles on [Google scholar](https://scholar.google.es/citations?hl=es&user=nRp_BQYAAAAJ&view_op=list_works&gmla=AHoSzlVVnWDnLI-YDCELZKc9R9mFQwJQdXHV-3dgqoN_X1AG2LLiNf2TobP8jKowV0e6rRTHRkT7Ig7McQCk6hcKpPPFfDeiU1NbI4FC)  or [Research Gate](https://www.researchgate.net/profile/Juan-Cely-Acero).
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
