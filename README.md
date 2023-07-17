@@ -1,11 +1,11 @@
 ### Hi. I am Juan Pablo Cely 👋
 
 
-Economist, professional with experience as a researcher, and data analyst, knowledge of Excel, Power Bi, learning Python code, R, SQL, exploratory data analysis, database management, financial indicators, logistics, and reporting. Ability to work in a team, under pressure, and according to established objectives.
+Economist  with experience in data analysis and reporting. Proficient in Python, SQL, and NoSQL for creating ETL processes and handling big data. Skilled in database management, financial indicators, logistics, and reporting. Experienced in working with cloud platforms such as Microsoft Azure, Databricks, and AWS.
 
-Job profile in research, data analysis, and economic and financial reports in
-universities and companies such as BEMORE, Nueva Licorera de Boyacá and
-OPREC.
+I have a proven ability to work effectively in teams, deliver under pressure, and achieve established objectives. In my previous roles at BEMORE, Nueva Licorera de Boyacá, and OPREC, I conducted research, performed data analysis, and prepared economic and financial reports.
+
+I am now seeking opportunities in research, data analysis, and economic and financial reporting, both in academic institutions and companies, where I can leverage my skills and experience. I am dedicated to delivering high-quality insights and actionable recommendations based on thorough data analysis.
 
 - [My page.](https://juancely999.github.io/web/)
 
