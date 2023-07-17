@@ -15,7 +15,7 @@ I am now seeking opportunities in research, data analysis, and economic and fina
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/18QsrKFEA7pWgsT8-QXVO8Tj0bkpk-EnL/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1C4edkrl4v7suFtXW4s5fSqbs768baJtm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
