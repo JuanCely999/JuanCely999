@@ -13,7 +13,7 @@ Let's connect and explore how I can contribute to your data initiatives.
 
 - 📫 How to reach me **juanpablocely1@gmail.com**.
 
-- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1v1mR0FxHrjj0MIN2RkyIwnhKbkWcUi5W/view)
+- 📄 Know about my experiences [in my cv.](https://drive.google.com/file/d/1i512XAslOlSIiJeUu8U-S7jbg0np5X3H/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
