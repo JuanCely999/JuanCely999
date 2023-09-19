@@ -1,11 +1,9 @@
 ### Hi. I am Juan Pablo Cely 👋
 
 
-Economist  with experience in data analysis and reporting. Proficient in Python, SQL, and NoSQL for creating ETL processes and handling big data. Skilled in database management, financial indicators, logistics, and reporting. Experienced in working with cloud platforms such as Microsoft Azure, Databricks, and AWS.
+Economist passionate about data engineering, data analysis and business intelligent analyst dedicated to transforming data into actionable insights. With a background in data analysis, project management, and database administration, I have successfully led projects at organizations including CREPIB, UPTC, OPREC, Bemore SAS in Colombia and DRK-Kreisverband Kassel-Wolfhagen in Germany. My skills encompass Python, SQL, big data tools, and cloud platforms like Microsoft Azure and AWS. I excel in translating complex analyses into clear and effective solutions. I am always eager to take on new challenges in the realm of data and data-driven decision-making. 
 
-I have a proven ability to work effectively in teams, deliver under pressure, and achieve established objectives. In my previous roles at BEMORE, Nueva Licorera de Boyacá, and OPREC, I conducted research, performed data analysis, and prepared economic and financial reports.
-
-I am now seeking opportunities in research, data analysis, and economic and financial reporting, both in academic institutions and companies, where I can leverage my skills and experience. I am dedicated to delivering high-quality insights and actionable recommendations based on thorough data analysis.
+Let's connect and explore how I can contribute to your data initiatives.
 
 - [My page.](https://juancely999.github.io/web/)
 
